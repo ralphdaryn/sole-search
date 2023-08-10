@@ -1,0 +1,42 @@
+@import '../../styles/global.scss';
+
+.SearchBar {
+    &__form {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        padding: 1rem;
+        gap: 1rem;
+    }
+  
+    &__input {
+      flex: 1;
+      border: none;
+      outline: none;
+      font-size: 1rem;
+      padding: 1rem 2rem;
+      background-color: transparent;
+      font-family: "Jost Regular";
+      border-radius: 0.5rem;
+      width: 20rem;
+      border: 0.1rem solid rgba(0, 0, 0, 0.158);
+      &:hover {
+        background-color: #e0e0e0;
+        border: 0.1rem solid black;
+      }
+    }
+    &__button {
+      border: none;
+      background-color: black;
+      cursor: pointer;
+      padding: 1rem 2rem;
+      font-size: .9rem;
+      border-radius: 0.5rem;
+      color: white;
+      font-family: "Jost Bold";
+      &:hover {
+        background-color: #757575;
+      }
+    }
+  }

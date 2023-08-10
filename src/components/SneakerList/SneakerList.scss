@@ -1,0 +1,50 @@
+.SneakerList {
+  width: 100%;
+  a,
+  p {
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  .SneakerCard {
+    text-decoration: none;
+    &__container {
+      padding: 5rem 0 10rem 0;
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      justify-content: center;
+      gap: 2rem;
+    }
+    &__card {
+      box-shadow: black 1rem 1rem;
+      border: 0.2rem solid black;
+      margin-bottom: 5rem;
+      width: 30rem;
+      height: 41rem;
+    }
+    &__image {
+      padding-left: 1rem;
+    }
+    &__details {
+      display: flex;
+      flex-direction: column;
+      padding: 0 1rem;
+      color: black;
+      flex-wrap: wrap;
+    }
+    &__button {
+      background-color: black;
+      color: white;
+      border: none;
+      padding: 0.3rem 2rem;
+      margin-bottom: 1rem;
+      font-weight: bold;
+      height: 2rem;
+      display: block;
+      margin-bottom: 1.5rem;
+    }
+  }
+}

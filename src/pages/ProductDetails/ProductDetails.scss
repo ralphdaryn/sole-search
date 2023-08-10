@@ -1,0 +1,54 @@
+.sneaker-details {
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  &__title {
+    font-size: 3rem;
+  }
+  &__subtitle {
+    font-size: 2rem;
+    &--link {
+      padding-top: 1rem;
+      font-weight: bold;
+    }
+  }
+  &__story {
+    padding: 1rem 0;
+    line-height: 1.8rem;
+  }
+  &__subtext {
+    font-size: 1.5rem;
+  }
+  &__text {
+    font-size: 1.25rem;
+  }
+  &__story {
+    padding-bottom: 1rem;
+  }
+  &__links {
+    display: flex;
+    gap: 1rem;
+    font-weight: bold;
+    a {
+      text-decoration: none;
+    }
+    &--stockx {
+      background-color: #228C22;
+      display: block;
+      color: white;
+      padding: 0.5rem 1.3rem;
+    }
+    &--goat {
+      background-color: black;
+      display: block;
+      color: white;
+      padding: 0.5rem 1.3rem;
+    }
+    &--flightclub {
+      background-color: rgb(185, 25, 25);
+      display: block;
+      color: white;
+      padding: 0.5rem 1.3rem;
+    }
+  }
+}
