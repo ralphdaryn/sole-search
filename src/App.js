@@ -1,10 +1,13 @@
 import "./App.scss";
-import GetSneakers from "./utils/getSneakers";
+import Header from "./components/Header/Header";
+import Home from "./pages/Home/Home";
+
 
 function App() {
   return (
     <div>
-      <GetSneakers />
+      <Header />
+      <Home />
     </div>
   );
 }
