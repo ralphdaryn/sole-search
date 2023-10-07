@@ -4,8 +4,8 @@ Sole Search is your ultimate sneaker database application, providing extensive d
 
 ## 📸 Screenshots
 
-![Desktop View](./sole-search/src/assets/images/solesearch7.JPG)
-![Desktop View](./sole-search/src/assets/images/solesearch4.JPG)
+![Desktop View](./src/assets/images/solesearch4.JPG)
+![Desktop View](./src/assets/images/solesearch7.JPG)
 
 ## 🚀 Features
 - **Expansive Sneaker Database**: Explore details about your favorite sneakers, from classic models to the latest releases.
