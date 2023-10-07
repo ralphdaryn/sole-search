@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-const API_KEY = "1847|EUqPT20zrF7LC5W6qK3jMI0sLRbJjb4KoCuUOog2";
+const API_KEY = "2370|IcLY7inpAW5oVLKau4uAlUPRHo7JmF8LfUZ6utzv";
 
 export const FetchSneakersByQuery = async (query) => {
   const API_URL = `https://zylalabs.com/api/916/sneakers+database+api/731/search+sneaker?limit=12&page=1&query=${query}`;
