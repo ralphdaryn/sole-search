@@ -1,11 +1,10 @@
-
-<<<<<<< HEAD
+## Overview
 Sole Search is your ultimate sneaker database application, providing extensive details about various sneaker models, brands, release dates, and current market prices.
 
 ## 📸 Screenshots
 
-![Desktop View](./src/assets/images/solesearch4.JPG)
 ![Desktop View](./src/assets/images/solesearch7.JPG)
+![Desktop View](./src/assets/images/solesearch4.JPG)
 
 ## 🚀 Features
 - **Expansive Sneaker Database**: Explore details about your favorite sneakers, from classic models to the latest releases.
@@ -24,7 +23,7 @@ To get started with Sole Search, clone the repository and follow the setup instr
 git clone https://github.com/ralphdaryn/sole-search.git
 
 - Navigate to the project directory
-cd solesearch
+cd sole-search
 
 - Install dependencies
 npm install
@@ -36,10 +35,7 @@ npm start
 
 - **React**: For dynamic user interface components.
 - **SCSS**: Syntactically Awesome Style Sheets, a CSS preprocessor.
-- **Node Express**: Back-end framework for Node.js.
-- **React Router**: Declarative routing for React apps.
 - **Axios**: HTTP client used for API calls to browser & Node.js.
-- **Nodemon**: Monitors changes and automatically restarts the server.
 - **React Icons**: Integrate popular icons into React projects.
 - **Postman**: Provides a user-friendly interface to send requests to web services and view their responses in return.
 
@@ -83,10 +79,5 @@ Action for Future: Incorporate testing into all stages of development and utiliz
 7. Deployment and User Adoption
 Challenge: Ensuring a smooth deployment and encouraging user adoption.
 Lesson: A well-planned deployment strategy and post-launch marketing are vital to raise awareness and drive user adoption.
-<<<<<<< HEAD
 Action for Future: Develop a detailed deployment and marketing strategy to streamline launch processes and maximize initial user engagement.
-=======
-Action for Future: Develop a detailed deployment and marketing strategy to streamline launch processes and maximize initial user engagement.
->>>>>>> c8859e27a6d83e9d85c430322afc518d7f57cf04
-=======
->>>>>>> ccb79f2d4d068c3d5d3adc3b4432030adf78acce
+
