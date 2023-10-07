@@ -1,5 +1,5 @@
-# Sole Search: Your Sneaker Companion
 
+<<<<<<< HEAD
 Sole Search is your ultimate sneaker database application, providing extensive details about various sneaker models, brands, release dates, and current market prices.
 
 ## 📸 Screenshots
@@ -88,3 +88,5 @@ Action for Future: Develop a detailed deployment and marketing strategy to strea
 =======
 Action for Future: Develop a detailed deployment and marketing strategy to streamline launch processes and maximize initial user engagement.
 >>>>>>> c8859e27a6d83e9d85c430322afc518d7f57cf04
+=======
+>>>>>>> ccb79f2d4d068c3d5d3adc3b4432030adf78acce
