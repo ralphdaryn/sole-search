@@ -4,8 +4,8 @@ Sole Search is your ultimate sneaker database application, providing extensive d
 
 ## 📸 Screenshots
 
-![Desktop View](../sole-search/sole-search/src/assets/images/solesearch4.JPG)
-![Desktop View](../sole-search/sole-search/src/assets/images/solesearch7.JPG)
+![Desktop View](./sole-search/src/assets/images/solesearch7.JPG)
+![Desktop View](./sole-search/src/assets/images/solesearch4.JPG)
 
 ## 🚀 Features
 - **Expansive Sneaker Database**: Explore details about your favorite sneakers, from classic models to the latest releases.
@@ -83,4 +83,8 @@ Action for Future: Incorporate testing into all stages of development and utiliz
 7. Deployment and User Adoption
 Challenge: Ensuring a smooth deployment and encouraging user adoption.
 Lesson: A well-planned deployment strategy and post-launch marketing are vital to raise awareness and drive user adoption.
+<<<<<<< HEAD
 Action for Future: Develop a detailed deployment and marketing strategy to streamline launch processes and maximize initial user engagement.
+=======
+Action for Future: Develop a detailed deployment and marketing strategy to streamline launch processes and maximize initial user engagement.
+>>>>>>> c8859e27a6d83e9d85c430322afc518d7f57cf04
